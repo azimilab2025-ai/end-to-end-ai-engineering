@@ -152,7 +152,7 @@ Current priorities:
 ## 🗺️ Portfolio Navigation
 
 - [🏠 Return to Portfolio Home](../../README.md)
-- [📐 View Portfolio Structure](../../portfolio-structure.md)
+- [📐 View Portfolio Structure](../../docs/portfolio-structure.md)
 - [🏗️ Browse Architecture Documentation](../../docs/architecture/)
 - [📚 Browse Case Studies](../../docs/case-studies/)
 - [🔎 Browse Technical Evidence](../../docs/evidence/)
