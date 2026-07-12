@@ -86,7 +86,7 @@ Projects in this portfolio are supported by verifiable engineering evidence, inc
 - [Technical Evidence](./docs/evidence/)
 - [Architecture Diagrams](./assets/diagrams/)
 - [Screenshots and Images](./assets/images/)
-- [Portfolio Structure](./portfolio-structure.md)
+- [Portfolio Structure](./docs/portfolio-structure.md)
 
 ---
 
