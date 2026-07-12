@@ -6,3 +6,6 @@ __pycache__/
 *.pyc
 .vscode/
 .idea/
+
+# Python virtual environment
+.venv/
