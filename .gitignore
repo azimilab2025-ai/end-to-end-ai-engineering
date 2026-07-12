@@ -9,3 +9,6 @@ __pycache__/
 
 # Python virtual environment
 .venv/
+
+# Local SQLite database
+supply_chain.db
