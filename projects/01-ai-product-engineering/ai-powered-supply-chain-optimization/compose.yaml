@@ -1,0 +1,20 @@
+services:
+  api:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    environment:
+      APP_NAME: AI-Powered Supply Chain Optimization API
+      APP_VERSION: 0.1.0
+      ENVIRONMENT: production
+      DEBUG: "false"
+      API_PREFIX: /api/v1
+      DATABASE_URL: sqlite:////data/supply_chain.db
+    ports:
+      - "127.0.0.1:8011:8000"
+    volumes:
+      - supply-chain-data:/data
+    restart: unless-stopped
+
+volumes:
+  supply-chain-data:
