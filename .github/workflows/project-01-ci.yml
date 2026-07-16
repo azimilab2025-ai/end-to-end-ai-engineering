@@ -1,0 +1,43 @@
+name: Project 01 CI
+
+on:
+  push:
+    paths:
+      - "projects/01-ai-product-engineering/ai-powered-supply-chain-optimization/**"
+      - ".github/workflows/project-01-ci.yml"
+  pull_request:
+    paths:
+      - "projects/01-ai-product-engineering/ai-powered-supply-chain-optimization/**"
+      - ".github/workflows/project-01-ci.yml"
+
+permissions:
+  contents: read
+
+jobs:
+  test:
+    name: Run Project 01 Tests
+    runs-on: ubuntu-latest
+
+    defaults:
+      run:
+        working-directory: projects/01-ai-product-engineering/ai-powered-supply-chain-optimization
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+          cache-dependency-path: projects/01-ai-product-engineering/ai-powered-supply-chain-optimization/requirements.txt
+
+      - name: Upgrade pip
+        run: python -m pip install --upgrade pip
+
+      - name: Install dependencies
+        run: python -m pip install -r requirements.txt
+
+      - name: Run tests
+        run: python -m pytest -q
