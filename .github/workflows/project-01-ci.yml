@@ -136,7 +136,7 @@ jobs:
           set -euo pipefail
 
           curl --fail --silent \
-            http://127.0.0.1:8011/health \
+            http://127.0.0.1:18011/health \
             > /tmp/project-01-health.json
 
           python - <<'PY'
@@ -158,7 +158,7 @@ jobs:
       - name: Validate root endpoint
         run: |
           curl --fail --silent \
-            http://127.0.0.1:8011/ \
+            http://127.0.0.1:18011/ \
             | python -m json.tool
 
       - name: Run tests inside container
