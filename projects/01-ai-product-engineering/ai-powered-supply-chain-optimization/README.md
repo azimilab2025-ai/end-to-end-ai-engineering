@@ -8,6 +8,26 @@ The platform continuously analyzes operational data to improve inventory plannin
 
 ---
 
+## Technical Evidence Gallery
+
+### 1. Repository Structure
+
+![Project 01 repository structure](evidence/project-01-inventory/screenshots/01-repository-structure.png)
+
+### 2. Architecture and Code
+
+![Project 01 architecture and code](evidence/project-01-inventory/screenshots/02-architecture-and-code.png)
+
+### 3. Swagger API Validation
+
+![Project 01 Swagger API validation](evidence/project-01-inventory/screenshots/03-swagger-api.png)
+
+### 4. GitHub Actions CI
+
+![Project 01 successful GitHub Actions CI](evidence/project-01-inventory/screenshots/04-github-actions-ci.png)
+
+---
+
 ## Business Problem
 
 Large organizations lose significant revenue due to inaccurate forecasting, inventory imbalance, delayed logistics, and inefficient supplier management.
