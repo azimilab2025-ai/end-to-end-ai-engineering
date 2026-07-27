@@ -8,6 +8,10 @@ The platform continuously analyzes operational data to improve inventory plannin
 
 ---
 
+## Project Demo
+
+[▶ Watch the complete project walkthrough on YouTube](https://youtu.be/hUALYUOO_sI)
+
 ## Technical Evidence Gallery
 
 ### 1. Repository Structure
