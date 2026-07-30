@@ -337,31 +337,50 @@ make logs
 | `ACCESS_TOKEN_EXPIRE_MINUTES` | No | `60` | Access-token lifetime |
 | `OPENAI_API_KEY` | For AI replies | Empty | OpenAI authentication |
 
-## 📸 Project Evidence
+## 🔗 Project Links
 
-Exactly four screenshots are reserved for the final portfolio evidence. Add the files at the paths below without changing the count.
+| Resource | Destination |
+|---|---|
+| GitHub Repository | [View Project 02](https://github.com/azimilab2025-ai/end-to-end-ai-engineering/tree/main/projects/02-ai-assistant-project) |
+| VS Code Implementation | [Browse the API source code](https://github.com/azimilab2025-ai/end-to-end-ai-engineering/tree/main/projects/02-ai-assistant-project/apps/api) |
+| Render Dashboard | [Open the Render service dashboard](https://dashboard.render.com/web/srv-d7n9p1m7r5hc73aoaj1g) |
+| Docker Compose | [View the Docker configuration](https://github.com/azimilab2025-ai/end-to-end-ai-engineering/blob/main/projects/02-ai-assistant-project/compose.yaml) |
+| Local Swagger UI | `http://localhost:8000/docs` |
+| Demo Video | [Watch the project demonstration](https://youtu.be/doPuwWKU8nk) |
+
+> [!NOTE]
+> The Render dashboard requires an authorized Render account. GitHub links provide read-only access to visitors who do not have repository write permission. The localhost Swagger URL works only while the API is running on the local computer.
+
+## 📸 Project Evidence
 
 ### 1. GitHub Repository
 
-![GitHub repository overview](docs/evidence/01-github-repository.png)
+[![GitHub repository overview](docs/evidence/01-github-repository.png)](https://github.com/azimilab2025-ai/end-to-end-ai-engineering/tree/main/projects/02-ai-assistant-project)
+
+[Open the GitHub repository](https://github.com/azimilab2025-ai/end-to-end-ai-engineering/tree/main/projects/02-ai-assistant-project)
 
 ### 2. VS Code Implementation
 
-![VS Code project implementation](docs/evidence/02-vscode-implementation.png)
+[![VS Code project implementation](docs/evidence/02-vscode-implementation.png)](https://github.com/azimilab2025-ai/end-to-end-ai-engineering/tree/main/projects/02-ai-assistant-project/apps/api)
+
+[Browse the API implementation](https://github.com/azimilab2025-ai/end-to-end-ai-engineering/tree/main/projects/02-ai-assistant-project/apps/api)
 
 ### 3. Render Deployment
 
-![Render deployment evidence](docs/evidence/03-render-deployment.png)
+[![Render deployment dashboard](docs/evidence/03-render-deployment.png)](https://dashboard.render.com/web/srv-d7n9p1m7r5hc73aoaj1g)
+
+[Open the Render service dashboard](https://dashboard.render.com/web/srv-d7n9p1m7r5hc73aoaj1g)
 
 ### 4. Docker and Swagger
 
-![Docker runtime and Swagger API documentation](docs/evidence/04-docker-swagger.png)
+[![Docker runtime and Swagger documentation](docs/evidence/04-docker-swagger.png)](https://github.com/azimilab2025-ai/end-to-end-ai-engineering/blob/main/projects/02-ai-assistant-project/compose.yaml)
+
+[View Docker Compose](https://github.com/azimilab2025-ai/end-to-end-ai-engineering/blob/main/projects/02-ai-assistant-project/compose.yaml) · Local Swagger UI: `http://localhost:8000/docs`
 
 ## 🎥 Demo Video
 
 The final walkthrough video will be linked here after publication:
 
-<!-- Replace VIDEO_URL with the final YouTube or LinkedIn video URL. -->
 [Watch the project demonstration](VIDEO_URL)
 
 ## 🔒 Security Notes
