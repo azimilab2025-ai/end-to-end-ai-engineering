@@ -367,7 +367,7 @@ make logs
 
 ### 3. Render Deployment
 
-[![Render deployment dashboard](docs/evidence/03-render-deployment.png)](https://dashboard.render.com/web/srv-d7n9p1m7r5hc73aoaj1g)
+[![Render deployment dashboard](docs/evidence/03-render-deployment.jpg)](https://dashboard.render.com/web/srv-d7n9p1m7r5hc73aoaj1g)
 
 [Open the Render service dashboard](https://dashboard.render.com/web/srv-d7n9p1m7r5hc73aoaj1g)
 
