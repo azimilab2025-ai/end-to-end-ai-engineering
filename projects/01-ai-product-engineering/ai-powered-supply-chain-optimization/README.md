@@ -1,3 +1,6 @@
+> **Portfolio navigation updated.** The primary case file is now at [`cases/04-lieferkette-optimierungsplattform/`](../../../cases/04-lieferkette-optimierungsplattform/). Engineering evidence (source, architecture, tests, deployment) remains in this folder.
+
+
 # AI-Powered Supply Chain Optimization Platform
 
 ## Executive Summary

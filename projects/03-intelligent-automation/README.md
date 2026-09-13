@@ -1,3 +1,6 @@
+> **Portfolio navigation updated.** The cases index is now at [`cases/`](../../cases/). This folder holds engineering standards and evidence for intelligent automation work.
+
+
 # 🤖 Intelligent Automation
 
 ![Focus](https://img.shields.io/badge/Focus-Intelligent%20Automation-6f42c1)

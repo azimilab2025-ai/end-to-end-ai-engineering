@@ -1,3 +1,6 @@
+> **Portfolio navigation updated.** The cases index is now at [`cases/`](../../cases/). This folder holds engineering standards and evidence for deployment, testing, and reliability work.
+
+
 # 🚀 Deployment, Testing, and Reliability
 
 ![Focus](https://img.shields.io/badge/Focus-Deployment%20%26%20Reliability-2563eb)

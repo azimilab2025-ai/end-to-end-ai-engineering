@@ -1,3 +1,6 @@
+> **Portfolio navigation updated.** The cases index is now at [`cases/`](../../cases/). This folder holds engineering standards and evidence for data, APIs, and decision systems work.
+
+
 # 📊 Data, APIs, and Decision Systems
 
 ![Focus](https://img.shields.io/badge/Focus-Data%20%26%20Decision%20Systems-2563eb)

@@ -1,3 +1,6 @@
+> **Portfolio navigation updated.** The primary case file for the supply chain optimization platform is now at [`cases/04-lieferkette-optimierungsplattform/`](../../cases/04-lieferkette-optimierungsplattform/). Engineering evidence remains in this folder.
+
+
 # AI Product Engineering
 
 This portfolio section demonstrates the design and development of AI-powered products that address clearly defined business, operational, and user problems.

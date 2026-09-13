@@ -1,3 +1,6 @@
+> **Portfolio navigation updated.** The primary case file for the Personal AI Assistant is now at [`cases/05-personal-ai-assistant/`](../../cases/05-personal-ai-assistant/). Engineering evidence (backend source, Docker Compose, API tests) remains in this folder.
+
+
 # Full-Stack AI Assistant Platform
 
 <div align="center">
